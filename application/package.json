@@ -1,0 +1,16 @@
+{
+  "name": "wheel-seminar-assignment",
+  "version": "1.0.0",
+  "description": "SPARCS Wheel Seminar Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.22.0"
+  }
+}
